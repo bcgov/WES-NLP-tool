@@ -1,4 +1,6 @@
-# WES-NLPtool
+# WES-NLP-tool
+
+This is the repository for the BC Public Service Work Environment Survey (WES) Natural Language Processing (NLP) tool.
 
 
 ### Getting Help or Reporting an Issue
