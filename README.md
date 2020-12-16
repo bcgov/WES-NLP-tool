@@ -1,5 +1,7 @@
 # WES-NLP-tool
 
+[![img](https://img.shields.io/badge/Lifecycle-Maturing-007EC6)](https://github.com/bcgov/repomountie/blob/master/doc/lifecycle-badges.md)
+
 This is the repository for the BC Public Service Work Environment Survey (WES) Natural Language Processing (NLP) tool.
 
 
